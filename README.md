@@ -1,5 +1,5 @@
 # Top-Conference
-Papers in some Top Conference
+
 URL of Some Top Conferences’ papers (CV、ML and others)
 
 1. ###### NIPS(1987-)
@@ -70,7 +70,6 @@ URL of Some Top Conferences’ papers (CV、ML and others)
 
 ###### 
 
-1. 
 
 
 
